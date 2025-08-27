@@ -1,0 +1,41 @@
+/**
+ * @name Vencord
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 211,134,155;
+  --accentcolor2: 216,166,86;
+  --linkcolor: 124,174,163;
+  --mentioncolor: 133,174,125;
+  --textbrightest: 233,208,170;
+  --textbrighter: 226,208,179;
+  --textbright: 167,154,132;
+  --textdark: 189,170,136;
+  --textdarker: 109,100,85;
+  --textdarkest: 144,131,116;
+  --font: Inter;
+  --backgroundaccent: 109,100,85;
+  --backgroundprimary: 60,56,54;
+  --backgroundsecondary: 60,56,54;
+  --backgroundsecondaryalt: 40,40,40;
+  --backgroundtertiary: 40,40,40;
+  --backgroundfloating: 40,40,40;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
